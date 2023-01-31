@@ -6,8 +6,8 @@
  Notes:
 */
 
-#ifndef HEADER.H
-#define HEADER.H
+#ifndef HEADER_H
+#define HEADER_H
 
 #include <iostream>
 #include <vector>
